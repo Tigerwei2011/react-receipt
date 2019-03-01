@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "5968dd23fc13ae04d9000023"
+  },
+  "product_name": "Intel CPU i9-9900",
+  "supplier": "Wisozk Inc",
+  "quantity": 261,
+  "unit_cost": "1700.5"
+}, {
+  "_id": {
+    "$oid": "5968dd23fc13ae04d9000042"
+  },
+  "product_name": "AMD Blade",
+  "supplier": "Keebler-Hilpert",
+  "quantity": 292,
+  "unit_cost": "28.75"
+}, {
+  "_id": {
+    "$oid": "5968dd23fc13ae04d9000053"
+  },
+  "product_name": "Asus ROG Laptop",
+  "supplier": "Schmitt-Weissnat",
+  "quantity": 11,
+  "unit_cost": "1900.50"
+}]
